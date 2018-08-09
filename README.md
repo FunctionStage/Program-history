@@ -41,3 +41,6 @@
 
 #### 参考：
 * AWS云计算 https://www.zhihu.com/question/19588115/answer/196359285
+
+###### 素材
+* IBM创始人托马斯·沃森(Thomas J. Watson)当初“全球只需5台计算机
