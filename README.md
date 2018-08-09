@@ -45,3 +45,4 @@
 ###### 素材
 * IBM创始人托马斯·沃森(Thomas J. Watson)当初“全球只需5台计算机
 * 但Sun首席技术官格雷格（Greg Papadopoulos）认为，就一主意最终会成为现实。他在自己的博客中写道：世界只需要5 台计算机。
+* cloudnative
