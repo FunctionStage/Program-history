@@ -13,7 +13,7 @@
    * 2014 AWS推出AWS Lambda服务，一种对Serverless的全新实现
    * 2015 AWS re:invent CMP302 AWS Lambda and the Serverless Cloud
    * 当前aws,azure,ali,hws,tenent,google,ibm...都提供了函数服务
-   * 2018初CNCF Serverless working group发布Serverless whitepaper 1.0
+   * [2018初CNCF Serverless working group发布Serverless whitepaper 1.0](https://github.com/cncf/wg-serverless/tree/master/whitepaper)
    
    
 
