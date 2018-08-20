@@ -11,7 +11,7 @@
    * Serverless的服务特征
    * Serverless的商业特征
    ### Serverless的由来
-   * 2012 在<<Why The Future Of Software And Apps Is Serverless>>中第一次出现Serverless，主要在讲Developer在云上不需要关心资源运维
+   * 2012 在《Why The Future Of Software And Apps Is Serverless》中第一次出现Serverless，主要在讲Developer在云上不需要关心资源运维
    * 2014 AWS推出AWS Lambda服务，一种对Serverless的全新实现
    * 2015 AWS re:invent CMP302 AWS Lambda and the Serverless Cloud
    * 当前aws,azure,ali,hws,tenent,google,ibm...都提供了函数服务
