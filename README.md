@@ -9,7 +9,16 @@
    * The phrase “serverless” doesn’t mean servers are no longer involved. It simply means that developers no longer have to think that much about them. [from 'Why The Future Of Software And Apps Is Serverless'](https://readwrite.com/2012/10/15/why-the-future-of-software-and-apps-is-serverless/)
    * Serverless提供的技术基础，从最初的物理服务器进化到虚拟化提供的虚拟机，由虚拟机进化到容器，而Serverless 架构又提供一个比容器更轻量、更简单的环境。
    * Serverless的服务特征
+     * 资源共享，资源对用户不可见
+     * 短生命周期
+     * 事件触发
+     * 无状态
+     * 免运维，用户不需要关心服务扩容、负载均衡、可靠性能力
    * Serverless的商业特征
+     * 按需付费，不使用不付费
+     * 资源利用率提升
+     * 开展业务更灵活，上线更快捷
+     * IT运维成本的下降
    ### Serverless的由来
    * 2012 在《Why The Future Of Software And Apps Is Serverless》中第一次出现Serverless，主要在讲Developer在云上不需要关心资源运维
    * 2014 AWS推出AWS Lambda服务，一种对Serverless的全新实现
