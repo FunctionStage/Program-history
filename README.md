@@ -19,6 +19,7 @@
      * 资源利用率提升
      * 开展业务更灵活，上线更快捷
      * IT运维成本的下降
+     * ‘节能环保’
    ### Serverless的由来
    * 2012 在《Why The Future Of Software And Apps Is Serverless》中第一次出现Serverless，主要在讲Developer在云上不需要关心资源运维
    * 2014 AWS推出AWS Lambda服务，一种对Serverless的全新实现
