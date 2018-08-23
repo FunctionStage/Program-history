@@ -75,6 +75,7 @@
 #### 参考：
 * AWS云计算 https://www.zhihu.com/question/19588115/answer/196359285
 * 'Why The Future Of Software And Apps Is Serverless'  https://readwrite.com/2012/10/15/why-the-future-of-software-and-apps-is-serverless/
+* Serverless Architectures https://martinfowler.com/articles/serverless.html#InherentDrawbacks
 
 ###### 素材
 * IBM创始人托马斯·沃森(Thomas J. Watson)当初“全球只需5台计算机
