@@ -8,7 +8,7 @@
    * Serverless直译为中文是“无服务器”，但是实际上它仍需要服务器，只不过服务器的管理以及资源分配部分对用户不可见。
    * The phrase “serverless” doesn’t mean servers are no longer involved. It simply means that developers no longer have to think that much about them. [from 'Why The Future Of Software And Apps Is Serverless'](https://readwrite.com/2012/10/15/why-the-future-of-software-and-apps-is-serverless/)
    * Serverless提供的技术基础，从最初的物理服务器进化到虚拟化提供的虚拟机，由虚拟机进化到容器，而Serverless 架构又提供一个比容器更轻量、更简单的环境。
-   ### 9、Serverless的特征
+   ### 8、Serverless的特征
    * Serverless的服务特征
      * 资源共享，资源对用户不可见
      * 短生命周期
